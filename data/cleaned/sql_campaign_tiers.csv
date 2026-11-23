@@ -1,0 +1,121 @@
+campaign_id,campaign_name,channel,objective,spend,revenue,conversions,roas,cpa,score,tier
+CMP0080,Affiliate 2024 080,Affiliate,Awareness,17904.18,232990.96,394,13.0132,45.442,1.0,High performer
+CMP0070,Affiliate 2024 070,Affiliate,Awareness,17318.5,218374.17,381,12.6093,45.455,0.992,High performer
+CMP0040,Affiliate 2023 040,Affiliate,Awareness,14920.9,183150.82,321,12.2748,46.483,0.979,High performer
+CMP0095,Affiliate 2025 095,Affiliate,Acquisition,17881.69,203419.1,385,11.3758,46.446,0.971,High performer
+CMP0035,Affiliate 2025 035,Affiliate,Awareness,15913.35,191083.78,341,12.0078,46.667,0.971,High performer
+CMP0045,Affiliate 2024 045,Affiliate,Awareness,10543.72,120094.29,214,11.3901,49.27,0.958,High performer
+CMP0110,Affiliate 2025 110,Affiliate,Acquisition,30384.26,330555.85,640,10.8792,47.475,0.945,High performer
+CMP0005,Affiliate 2024 005,Affiliate,Acquisition,17057.46,189914.53,344,11.1338,49.586,0.945,High performer
+CMP0050,Affiliate 2023 050,Affiliate,Awareness,35219.4,388919.88,659,11.0428,53.444,0.937,High performer
+CMP0086,Paid Search 2023 086,Paid Search,Awareness,11691.91,126855.4,211,10.8498,55.412,0.924,High performer
+CMP0120,Affiliate 2023 120,Affiliate,Acquisition,18220.92,171570.71,302,9.4161,60.334,0.912,High performer
+CMP0090,Affiliate 2024 090,Affiliate,Acquisition,28020.73,253215.7,479,9.0367,58.498,0.908,High performer
+CMP0046,Paid Search 2023 046,Paid Search,Acquisition,11529.48,107179.82,190,9.2962,60.681,0.903,High performer
+CMP0016,Paid Search 2024 016,Paid Search,Lead Generation,15462.39,137600.04,243,8.899,63.631,0.891,High performer
+CMP0066,Paid Search 2023 066,Paid Search,Lead Generation,19802.18,158871.86,304,8.0229,65.139,0.866,High performer
+CMP0001,Paid Search 2023 001,Paid Search,Awareness,13679.39,105014.02,213,7.6768,64.222,0.861,High performer
+CMP0006,Paid Search 2024 006,Paid Search,Acquisition,35513.84,288606.28,510,8.1266,69.635,0.853,High performer
+CMP0116,Paid Search 2023 116,Paid Search,Acquisition,36411.2,308379.69,515,8.4694,70.701,0.853,High performer
+CMP0111,Paid Search 2023 111,Paid Search,Acquisition,36543.87,280808.45,529,7.6841,69.081,0.849,High performer
+CMP0031,Paid Search 2024 031,Paid Search,Acquisition,28183.59,214055.64,418,7.595,67.425,0.84,High performer
+CMP0081,Paid Search 2023 081,Paid Search,Awareness,43017.04,361820.39,605,8.4111,71.103,0.84,High performer
+CMP0026,Paid Search 2025 026,Paid Search,Acquisition,41140.87,299599.91,590,7.2823,69.73,0.819,High performer
+CMP0075,Affiliate 2023 075,Affiliate,Lead Generation,23249.91,160754.44,353,6.9142,65.864,0.815,High performer
+CMP0061,Paid Search 2023 061,Paid Search,Lead Generation,48907.03,369829.93,688,7.5619,71.086,0.815,High performer
+CMP0091,Paid Search 2024 091,Paid Search,Lead Generation,32104.58,246347.1,446,7.6733,71.983,0.815,High performer
+CMP0106,Paid Search 2024 106,Paid Search,Acquisition,33985.21,236669.3,467,6.9639,72.773,0.79,High performer
+CMP0096,Paid Search 2025 096,Paid Search,Awareness,23764.0,167071.09,296,7.0304,80.284,0.782,High performer
+CMP0077,Paid Social 2025 077,Paid Social,Lead Generation,14837.21,99552.05,194,6.7096,76.48,0.765,High performer
+CMP0017,Paid Social 2024 017,Paid Social,Lead Generation,17839.66,123567.41,221,6.9266,80.722,0.765,High performer
+CMP0087,Paid Social 2023 087,Paid Social,Awareness,16943.37,114353.68,211,6.7492,80.3,0.756,High performer
+CMP0065,Affiliate 2024 065,Affiliate,Awareness,18328.31,121541.17,233,6.6313,78.662,0.752,High performer
+CMP0055,Affiliate 2024 055,Affiliate,Acquisition,41199.55,285329.47,507,6.9255,81.261,0.752,High performer
+CMP0060,Affiliate 2024 060,Affiliate,Acquisition,62309.32,417738.92,768,6.7043,81.132,0.739,High performer
+CMP0051,Paid Search 2024 051,Paid Search,Awareness,36822.31,226283.44,430,6.1453,85.633,0.71,High performer
+CMP0062,Paid Social 2023 062,Paid Social,Lead Generation,49907.15,321241.52,579,6.4368,86.195,0.71,High performer
+CMP0042,Paid Social 2023 042,Paid Social,Lead Generation,21665.55,140973.92,251,6.5068,86.317,0.71,High performer
+CMP0027,Paid Social 2023 027,Paid Social,Awareness,10152.69,58963.11,123,5.8076,82.542,0.697,High performer
+CMP0056,Paid Search 2025 056,Paid Search,Acquisition,52535.84,316984.23,595,6.0337,88.296,0.685,High performer
+CMP0020,Affiliate 2025 020,Affiliate,Lead Generation,60255.89,348047.15,689,5.7762,87.454,0.676,High performer
+CMP0057,Paid Social 2024 057,Paid Social,Lead Generation,52562.77,313791.4,559,5.9698,94.03,0.664,Average performer
+CMP0092,Paid Social 2024 092,Paid Social,Lead Generation,49872.48,301738.54,491,6.0502,101.573,0.664,Average performer
+CMP0037,Paid Social 2025 037,Paid Social,Lead Generation,40531.48,225273.98,441,5.558,91.908,0.66,Average performer
+CMP0097,Paid Social 2023 097,Paid Social,Awareness,40602.61,233705.96,433,5.7559,93.77,0.655,Average performer
+CMP0036,Paid Search 2024 036,Paid Search,Lead Generation,41412.64,216453.46,444,5.2267,93.272,0.639,Average performer
+CMP0015,Affiliate 2024 015,Affiliate,Awareness,58887.07,319263.94,606,5.4216,97.173,0.639,Average performer
+CMP0021,Paid Search 2024 021,Paid Search,Awareness,71337.5,380892.89,691,5.3393,103.238,0.626,Average performer
+CMP0105,Affiliate 2023 105,Affiliate,Lead Generation,55272.82,292696.59,523,5.2955,105.684,0.618,Average performer
+CMP0010,Affiliate 2023 010,Affiliate,Awareness,57375.18,294187.44,542,5.1274,105.858,0.601,Average performer
+CMP0022,Paid Social 2024 022,Paid Social,Acquisition,28807.41,150535.58,265,5.2256,108.707,0.601,Average performer
+CMP0117,Paid Social 2023 117,Paid Social,Awareness,64353.11,315925.45,568,4.9092,113.298,0.58,Average performer
+CMP0082,Paid Social 2023 082,Paid Social,Awareness,47464.49,222854.23,436,4.6952,108.864,0.571,Average performer
+CMP0107,Paid Social 2024 107,Paid Social,Awareness,66794.72,316085.27,611,4.7322,109.32,0.571,Average performer
+CMP0012,Paid Social 2024 012,Paid Social,Acquisition,25887.38,117346.11,225,4.5329,115.055,0.546,Average performer
+CMP0052,Paid Social 2023 052,Paid Social,Awareness,48307.28,216454.46,404,4.4808,119.572,0.534,Average performer
+CMP0058,Display 2023 058,Display,Lead Generation,25905.51,118383.74,203,4.5698,127.613,0.525,Average performer
+CMP0003,Display 2024 003,Display,Lead Generation,30895.96,141758.89,240,4.5883,128.733,0.521,Average performer
+CMP0113,Display 2025 113,Display,Lead Generation,19245.76,93150.52,145,4.8401,132.729,0.521,Average performer
+CMP0076,Paid Search 2024 076,Paid Search,Lead Generation,40845.75,175902.92,331,4.3065,123.401,0.513,Average performer
+CMP0048,Display 2024 048,Display,Lead Generation,57998.75,251435.2,457,4.3352,126.912,0.508,Average performer
+CMP0072,Paid Social 2024 072,Paid Social,Awareness,37097.85,153874.58,299,4.1478,124.073,0.5,Average performer
+CMP0102,Paid Social 2025 102,Paid Social,Awareness,67070.47,270077.02,571,4.0268,117.461,0.492,Average performer
+CMP0073,Display 2023 073,Display,Awareness,64824.15,289502.55,487,4.466,133.109,0.487,Average performer
+CMP0118,Display 2023 118,Display,Lead Generation,56065.52,230488.96,423,4.1111,132.543,0.475,Average performer
+CMP0038,Display 2023 038,Display,Lead Generation,36151.63,153430.06,270,4.2441,133.895,0.462,Average performer
+CMP0028,Display 2023 028,Display,Lead Generation,6701.48,32574.62,44,4.8608,152.306,0.441,Average performer
+CMP0108,Display 2023 108,Display,Awareness,48553.9,215141.67,344,4.431,141.145,0.437,Average performer
+CMP0088,Display 2025 088,Display,Lead Generation,41644.02,170722.89,306,4.0996,136.092,0.433,Average performer
+CMP0032,Paid Social 2024 032,Paid Social,Acquisition,43909.18,177976.13,323,4.0533,135.942,0.429,Average performer
+CMP0103,Display 2024 103,Display,Lead Generation,28256.07,104150.85,220,3.686,128.437,0.424,Average performer
+CMP0100,Affiliate 2023 100,Affiliate,Lead Generation,43167.8,170090.72,323,3.9402,133.646,0.424,Average performer
+CMP0008,Display 2023 008,Display,Lead Generation,62684.63,251896.65,462,4.0185,135.681,0.424,Average performer
+CMP0013,Display 2023 013,Display,Lead Generation,22247.21,87891.93,165,3.9507,134.832,0.42,Average performer
+CMP0047,Paid Social 2023 047,Paid Social,Acquisition,50118.56,183275.6,378,3.6568,132.589,0.408,Average performer
+CMP0043,Display 2025 043,Display,Awareness,42997.2,164223.35,313,3.8194,137.371,0.387,Average performer
+CMP0023,Display 2023 023,Display,Acquisition,19629.01,75318.47,141,3.8371,139.213,0.387,Average performer
+CMP0068,Display 2025 068,Display,Lead Generation,57515.62,229511.53,396,3.9904,145.241,0.382,Average performer
+CMP0083,Display 2025 083,Display,Lead Generation,48391.76,187352.3,329,3.8716,147.087,0.361,Average performer
+CMP0002,Paid Social 2023 002,Paid Social,Awareness,47041.22,191521.25,300,4.0713,156.804,0.357,Average performer
+CMP0011,Paid Search 2024 011,Paid Search,Lead Generation,40961.29,154659.51,281,3.7757,145.77,0.353,Average performer
+CMP0078,Display 2023 078,Display,Lead Generation,24620.8,88381.66,175,3.5897,140.69,0.349,Average performer
+CMP0071,Paid Search 2023 071,Paid Search,Lead Generation,62202.61,227161.15,436,3.652,142.667,0.345,Average performer
+CMP0007,Paid Social 2024 007,Paid Social,Acquisition,34977.43,131491.52,237,3.7593,147.584,0.34,Average performer
+CMP0030,Affiliate 2024 030,Affiliate,Acquisition,51492.57,168745.08,366,3.2771,140.69,0.319,Poor performer
+CMP0025,Affiliate 2024 025,Affiliate,Awareness,58281.78,207748.05,389,3.5645,149.825,0.315,Poor performer
+CMP0053,Display 2023 053,Display,Acquisition,35394.75,125386.68,232,3.5425,152.564,0.298,Poor performer
+CMP0093,Display 2024 093,Display,Awareness,72153.85,250142.87,478,3.4668,150.949,0.294,Poor performer
+CMP0054,Video 2024 054,Video,Awareness,14158.05,49365.0,86,3.4867,164.628,0.277,Poor performer
+CMP0033,Display 2023 033,Display,Lead Generation,45239.74,147335.34,293,3.2568,154.402,0.265,Poor performer
+CMP0115,Affiliate 2025 115,Affiliate,Lead Generation,52989.89,183931.07,313,3.4711,169.297,0.265,Poor performer
+CMP0063,Display 2025 063,Display,Lead Generation,57437.04,185403.34,346,3.2279,166.003,0.248,Poor performer
+CMP0112,Paid Social 2024 112,Paid Social,Acquisition,48945.75,162840.68,259,3.327,188.98,0.239,Poor performer
+CMP0085,Affiliate 2024 085,Affiliate,Awareness,51639.87,157336.9,280,3.0468,184.428,0.231,Poor performer
+CMP0101,Paid Search 2023 101,Paid Search,Awareness,52545.91,155541.15,279,2.9601,188.337,0.218,Poor performer
+CMP0094,Video 2023 094,Video,Lead Generation,49539.43,146756.0,256,2.9624,193.513,0.21,Poor performer
+CMP0029,Video 2024 029,Video,Awareness,36046.43,102693.84,201,2.8489,179.335,0.206,Poor performer
+CMP0098,Display 2024 098,Display,Lead Generation,43337.61,124429.85,227,2.8712,190.915,0.197,Poor performer
+CMP0089,Video 2023 089,Video,Acquisition,43045.82,123929.88,221,2.879,194.777,0.193,Poor performer
+CMP0019,Video 2023 019,Video,Awareness,21498.81,61371.59,105,2.8547,204.751,0.176,Poor performer
+CMP0018,Display 2023 018,Display,Acquisition,7405.03,16103.51,48,2.1747,154.271,0.16,Poor performer
+CMP0024,Video 2024 024,Video,Acquisition,66524.17,179567.16,319,2.6993,208.54,0.155,Poor performer
+CMP0059,Video 2025 059,Video,Acquisition,19164.26,52871.36,91,2.7589,210.596,0.155,Poor performer
+CMP0114,Video 2024 114,Video,Awareness,54531.03,143825.54,264,2.6375,206.557,0.147,Poor performer
+CMP0109,Video 2024 109,Video,Awareness,50775.13,135789.95,240,2.6743,211.563,0.134,Poor performer
+CMP0014,Video 2025 014,Video,Awareness,43162.47,100888.56,213,2.3374,202.641,0.13,Poor performer
+CMP0004,Video 2024 004,Video,Acquisition,27494.98,80962.12,124,2.9446,221.734,0.13,Poor performer
+CMP0041,Paid Search 2024 041,Paid Search,Acquisition,66691.1,176741.68,307,2.6502,217.235,0.113,Poor performer
+CMP0104,Video 2023 104,Video,Awareness,53604.75,133477.72,249,2.49,215.28,0.109,Poor performer
+CMP0069,Video 2024 069,Video,Awareness,23146.07,56263.84,109,2.4308,212.349,0.105,Poor performer
+CMP0009,Video 2024 009,Video,Lead Generation,54786.64,120655.46,260,2.2023,210.718,0.092,Poor performer
+CMP0067,Paid Social 2024 067,Paid Social,Acquisition,59042.06,146717.83,269,2.485,219.487,0.088,Poor performer
+CMP0044,Video 2025 044,Video,Acquisition,11538.17,27269.7,53,2.3634,217.701,0.084,Poor performer
+CMP0079,Video 2024 079,Video,Lead Generation,62230.93,137737.16,292,2.2133,213.12,0.08,Poor performer
+CMP0039,Video 2025 039,Video,Acquisition,24066.86,51293.31,114,2.1313,211.113,0.071,Poor performer
+CMP0049,Video 2023 049,Video,Acquisition,25032.55,61265.88,110,2.4474,227.569,0.071,Poor performer
+CMP0064,Video 2024 064,Video,Lead Generation,55178.97,128190.29,247,2.3232,223.397,0.059,Poor performer
+CMP0074,Video 2023 074,Video,Awareness,26109.81,56859.44,119,2.1777,219.41,0.055,Poor performer
+CMP0099,Video 2023 099,Video,Awareness,9348.4,21200.08,35,2.2678,267.097,0.038,Poor performer
+CMP0119,Video 2025 119,Video,Acquisition,16825.46,36568.85,71,2.1734,236.978,0.025,Poor performer
+CMP0034,Video 2024 034,Video,Awareness,34180.02,67619.25,140,1.9783,244.143,0.013,Poor performer
+CMP0084,Video 2023 084,Video,Awareness,6105.33,11132.24,14,1.8234,436.095,0.0,Poor performer
